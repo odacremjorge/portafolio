@@ -1,0 +1,1 @@
+web: gunicorn WEB-PORTAFOLIO-MASTER.wsgi --log--file -
